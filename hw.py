@@ -1,7 +1,3 @@
 
 print("Hello World")
-
-def decirHola(imprimir):
-    print(imprimir)
-
-decirHola("hola")
+print("git config --global user.mail vvillallbamartinez1501@gmail.com")
